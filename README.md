@@ -15,6 +15,15 @@ to get fields by casting the payload to a struct.
 ## Test
 See test/default.cpp for basic usage.
 
+## Installation
+```
+mkdir build
+cd build
+cmake ..
+make
+./default # Run example (the C94-M8B must be connected to /dev/ttyACM0 9600B)
+```
+
 
 
 
