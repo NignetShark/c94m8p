@@ -21,7 +21,7 @@ mkdir build
 cd build
 cmake ..
 make
-./default # Run example (the C94-M8B must be connected to /dev/ttyACM0 9600B)
+./default # Run example (the C94-M8P must be connected to /dev/ttyACM0 9600B)
 ```
 
 
